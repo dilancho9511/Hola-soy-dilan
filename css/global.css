@@ -1,0 +1,31 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --dilan-sierra-1-desktop-headings-display-3: Montserrat;
+    --dilan-sierra-1-desktop-body-hero-bold: Staatliches;
+    
+    /* font sizes */
+    --dilan-sierra-1-desktop-headings-display-1-size: 144px;
+    --dilan-sierra-1-desktop-body-hero-bold-size: 28px;
+    --dilan-sierra-1-desktop-headings-heading-4-size: 32px;
+    --dilan-sierra-1-desktop-headings-heading-2-size: 48px;
+    --dilan-sierra-1-desktop-headings-display-3-size: 22px;
+    --dilan-sierra-1-desktop-headings-display-2-size: 44px;
+    
+    /* Colors */
+    --secondary-secondary100: #e6e9ec;
+    --secondary-secondary: #21262c;
+    
+    /* Gaps */
+    --gap-52xl: 71px;
+    --gap-9xl: 28px;
+    --gap-mid: 17px;
+    
+}

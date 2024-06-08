@@ -1,0 +1,309 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.dilan {
+    width: 401px;
+    position: relative;
+    line-height: 120%;
+    display: inline-block;
+}
+.de-diseo {
+    margin: 0;
+}
+.portafolio-de-diseo-container {
+    position: relative;
+    font-size: var(--dilan-sierra-1-desktop-headings-display-2-size);
+    line-height: 120%;
+}
+.titulo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.parrafo {
+    width: 543px;
+    position: relative;
+    font-size: var(--dilan-sierra-1-desktop-headings-display-3-size);
+    line-height: 120%;
+    display: inline-block;
+    height: 260px;
+    flex-shrink: 0;
+}
+.presentacion1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 75px;
+}
+.imagen-icon {
+    width: 576px;
+    position: relative;
+    height: 614px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.conjunto-presentacion {
+    position: absolute;
+    top: 74px;
+    left: 138px;
+    width: 1184px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 65px;
+}
+.presentacion {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    background-color: var(--secondary-secondary100);
+    width: 1440px;
+    height: 762px;
+    overflow: hidden;
+    font-family: var(--dilan-sierra-1-desktop-headings-display-3);
+}
+.dilan-smit-sierra {
+    width: 543px;
+    position: relative;
+    font-size: var(--dilan-sierra-1-desktop-headings-display-3-size);
+    line-height: 120%;
+    font-family: var(--dilan-sierra-1-desktop-headings-display-3);
+    display: inline-block;
+    height: 125px;
+    flex-shrink: 0;
+}
+.experiencia {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-mid);
+}
+.educacin {
+    position: relative;
+    line-height: 120%;
+}
+.expe-edu {
+    position: absolute;
+    top: 52px;
+    left: 138px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 83px;
+}
+.ilustraitor-photoshop {
+    width: 543px;
+    position: relative;
+    font-size: var(--dilan-sierra-1-desktop-headings-display-3-size);
+    line-height: 120%;
+    font-family: var(--dilan-sierra-1-desktop-headings-display-3);
+    display: inline-block;
+    height: 203px;
+    flex-shrink: 0;
+}
+.software-info {
+    height: 209px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-mid);
+}
+.software-child {
+    width: 579px;
+    position: relative;
+    height: 287px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.software {
+    position: absolute;
+    top: 328px;
+    left: 138px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 45px;
+}
+.mas-sobre-mi {
+    position: absolute;
+    top: 762px;
+    left: 30px;
+    background-color: var(--secondary-secondary100);
+    width: 1440px;
+    height: 667px;
+    overflow: hidden;
+    font-size: var(--dilan-sierra-1-desktop-headings-heading-2-size);
+}
+.contactame {
+    position: relative;
+    font-size: var(--dilan-sierra-1-desktop-headings-heading-2-size);
+    line-height: 120%;
+}
+.dilan-scoutlookcom {
+    position: relative;
+    line-height: 120%;
+    color: inherit;
+    text-decoration: none;
+}
+.contacto {
+    position: absolute;
+    top: 54px;
+    left: 138px;
+    border-top: 2px solid var(--secondary-secondary);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 61px;
+
+}
+.footer {
+    position: absolute;
+    top: 3317px;
+    left: 30px;
+    background-color: var(--secondary-secondary100);
+    width: 1440px;
+    height: 140px;
+    overflow: hidden;
+    font-size: var(--dilan-sierra-1-desktop-headings-heading-4-size);
+}
+.imagen-icon1 {
+    width: 341px;
+    position: relative;
+    height: 415px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.publicidad-hamburguesa {
+    width: 335px;
+    position: relative;
+    line-height: 120%;
+    display: inline-block;
+}
+.trabajo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-9xl);
+}
+.imagen-icon2 {
+    position: absolute;
+    height: 87%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 13%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.publicidad-hamburguesa1 {
+    position: absolute;
+    width: 98.24%;
+    top: 92.87%;
+    left: 0%;
+    line-height: 120%;
+    display: inline-block;
+}
+.component-1 {
+    width: 341px;
+    position: relative;
+    height: 477px;
+}
+.conjunto-trabajos {
+    position: absolute;
+    top: 59px;
+    left: 138px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-52xl);
+}
+.conjunto-trabajos1 {
+    position: absolute;
+    top: 629px;
+    left: 138px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-52xl);
+}
+.trabajos {
+    position: absolute;
+    top: 2152px;
+    left: 30px;
+    background-color: var(--secondary-secondary100);
+    width: 1440px;
+    height: 1165px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--dilan-sierra-1-desktop-body-hero-bold-size);
+}
+.imagen-icon7 {
+    width: 576px;
+    position: relative;
+    height: 619px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.modelado-3d {
+    width: 461px;
+    position: relative;
+    line-height: 120%;
+    display: inline-block;
+    flex-shrink: 0;
+}
+.primer-trabajo {
+    position: absolute;
+    top: 52px;
+    left: 138px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 142px;
+}
+.muestra {
+    position: absolute;
+    top: 1429px;
+    left: 30px;
+    background-color: var(--secondary-secondary100);
+    width: 1440px;
+    height: 723px;
+    overflow: hidden;
+    font-family: var(--dilan-sierra-1-desktop-headings-display-3);
+}
+.portafolio {
+    width: 100%;
+    position: relative;
+    background-color: var(--secondary-secondary);
+    height: 3457px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--dilan-sierra-1-desktop-headings-display-1-size);
+    color: var(--secondary-secondary);
+    font-family: var(--dilan-sierra-1-desktop-body-hero-bold);
+
+}
+
